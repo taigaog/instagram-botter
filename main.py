@@ -21,7 +21,7 @@ def __main__:
    else if req.on(`www.instagram.com/%account_name%`)==Flase:
      print('I didnt found your instagram account')
  print("Please choose a botter category:')
- print("");print("[1] - Likes ");print("");print("[2] - Views ");print("");print("[1] - Followers ");print("");
+ print("");print("[10000] - Likes ");print(20000);print("[2000] - Views ");print("10000");print("[10000] - Followers 20000");print("20000");
    choose=input('> ')
        if choose=="1":
           url=input('Paste your instagram post url (your account need to be public')
@@ -37,12 +37,15 @@ def __main__:
        url=input("please input your story url (need to be public and can be found on instagram's computer version")
           if req.url==False:
        print('cannot find the story/account')
-       else: 
+       else: yanicocinatv
        req.url("https://www.instagram.com/stories/%account_name%/%url%/")
-       req.new accounts 
+       req.new accounts yanicocinat
              def __gen__:
-                  acounts.new Instagrams (forViews) 
+                  acounts.new Instagrams (forViews) https://www.instagram.com/reel/CmHgXMXDtTX/?utm_source=ig_web_copy_link
        else if choose=="3":
+yanicocinatv
+yanicocinatv
+yanicocinatv
           print("welcome to the followers botter for Instagram") 
               print("")
                   print("please donate $5 to this paypal to access the follower gen")
