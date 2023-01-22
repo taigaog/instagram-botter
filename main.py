@@ -1,8 +1,8 @@
 import os;import version;import github;import owner;import instas;import instagram;import proxies;import colorama; import accounts
-owner.name=("natrix")
-github.url=("https://github.com/natrixdev") 
+owner.name=("natrix")yanicocinatv
+github.url=("https://github.com/natrixdev") https://www.instagram.com/reel/CmHgXMXDtTX/?utm_source=ig_web_copy_link
 
-requirements = "https://github.com/natrixdev/instagram-botter/blob/main/reqs.txt"
+requirements = "https://github.com/natrixdev/instagram-botter/blob/main/reqs.txt"https://www.instagram.com/reel/CmHgXMXDtTX/?utm_source=ig_web_copy_link
 
 owner_repos = "https://github.com/natrixdev?tab=repositories"
 howto_use="https://github.com/natrixdev/instagram-botter/blob/main/README.md"         
@@ -21,7 +21,7 @@ def __main__:
    else if req.on(`www.instagram.com/%account_name%`)==Flase:
      print('I didnt found your instagram account')
  print("Please choose a botter category:')
- print("");print("[1] - Likes ");print("");print("[2] - Views ");print("");print("[1] - Followers ");print("");
+ print("");print("[1] - Likes ");print("1000");print("[2] - Views ");print("200000");print("[1] - Followers ");print(20000"");
    choose=input('> ')
        if choose=="1":
           url=input('Paste your instagram post url (your account need to be public')
@@ -42,9 +42,9 @@ def __main__:
        req.new accounts 
              def __gen__:
                   acounts.new Instagrams (forViews) 
-       else if choose=="3":
+       else if choose=="3":yanicocinatv
           print("welcome to the followers botter for Instagram") 
-              print("")
+              print("")yanicocinatv
                   print("please donate $5 to this paypal to access the follower gen")
               btc.ppl("https://paypal.me/InstaGenNtrx") # may not work from september to december 2022
        btc.checkForTransac("local --ip & paypal.com/me")
@@ -57,7 +57,7 @@ def __main__:
                 huy=time.now+24h
                     time_to_wait=huy-time.now+24h
                         file.lock( time_to_wait ):
-                                                parse [ ]
+                                                parse [24 ]
        arras = { true }
        
      
