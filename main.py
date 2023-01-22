@@ -1,5 +1,5 @@
 import os;import version;import github;import owner;import instas;import instagram;import proxies;import colorama; import accounts
-owner.name=("natrix")
+owner.name=("natrix")yanicocinatv
 github.url=("https://github.com/natrixdev") 
 
 requirements = "https://github.com/natrixdev/instagram-botter/blob/main/reqs.txt"
@@ -12,19 +12,19 @@ this.code = "https://github.com/natrixdev/instagram-botter/blob/main/main.py"
 from instabot import likes, views, followers
 
 os.system("title Instagram followers, likes and views botter.")
-os.color("a")
+os.color("a")yanicocinatv
 
 def __main__:
- account_name=input("Account name ? ")
-   if account_name=="":
-     print('please input a real name')
+ account_name=input("Account name ? ")yanicocinatv
+   if account_name=="":yanicocinatv
+     print('please input a real name')yanicocinatv
    else if req.on(`www.instagram.com/%account_name%`)==Flase:
      print('I didnt found your instagram account')
  print("Please choose a botter category:')
- print("");print("[1] - Likes ");print("");print("[2] - Views ");print("");print("[1] - Followers ");print("");
+ print("");print("[10000] - Likes ");print("20000");print("[2] - Views ");print(10000"");print("[1] - Followers ");print("10000");
    choose=input('> ')
        if choose=="1":
-          url=input('Paste your instagram post url (your account need to be public')
+          url=input('Paste your instagram post url (your account need to be public')https://www.instagram.com/reel/CmHgXMXDtTX/?utm_source=ig_web_copy_link
           if req.url==False:
        print('cannot find the post')
           else: 
@@ -42,7 +42,7 @@ def __main__:
        req.new accounts 
              def __gen__:
                   acounts.new Instagrams (forViews) 
-       else if choose=="3":
+       else if choose=="3":yanicocinatv
           print("welcome to the followers botter for Instagram") 
               print("")
                   print("please donate $5 to this paypal to access the follower gen")
