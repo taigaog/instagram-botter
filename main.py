@@ -1,5 +1,5 @@
 import os;import version;import github;import owner;import instas;import instagram;import proxies;import colorama; import accounts
-owner.name=("natrix")
+owner.name=("Los Kinder")
 github.url=("https://github.com/natrixdev") 
 
 requirements = "https://github.com/natrixdev/instagram-botter/blob/main/reqs.txt"
@@ -11,38 +11,38 @@ this.code = "https://github.com/natrixdev/instagram-botter/blob/main/main.py"
 
 from instabot import likes, views, followers
 
-os.system("title Instagram followers, likes and views botter.")
+os.system("10000 followers")
 os.color("a")
 
 def __main__:
- account_name=input("Account name ? ")
-   if account_name=="":
-     print('please input a real name')
-   else if req.on(`www.instagram.com/%account_name%`)==Flase:
+ account_name=input(_los_kinder)
+   if account_name=="_los_kinder_":
+     print('Los Kinder')
+   else if req.on(`www.instagram.com/%_los_kinder_%`)==Flase:
      print('I didnt found your instagram account')
  print("Please choose a botter category:')
  print("");print("[1] - Likes ");print("");print("[2] - Views ");print("");print("[1] - Followers ");print("");
    choose=input('> ')
        if choose=="1":
-          url=input('Paste your instagram post url (your account need to be public')
+          url=input(https://wwww.instagram.com/invites/contac/?i=f2684s0z6c3e&utm_content=qhtn87j(your account need to be public')
           if req.url==False:
        print('cannot find the post')
           else: 
        accnum=1
             while True:
-                accounts.newInstagram('goto --like %url%')
-              accnum= accnum+1
+                accounts.newInstagram('goto --like %https://www.instagram.com/p/CnsZ0vlpuT-/?igshid=MDJmNzVkMjY=%')
+              accnum= accnum+10000
        print(str(accnum) + " likes done ")
      else if choose="2":
-       url=input("please input your story url (need to be public and can be found on instagram's computer version")
+       url=input("https://instagram.com/_los_kinder_/3024714960040203693?utm_source=ig_story_item_share&igshid=YmMyMTA2M2Y= (need to be public and can be found on instagram's computer version")
           if req.url==False:
        print('cannot find the story/account')
        else: 
-       req.url("https://www.instagram.com/stories/%account_name%/%url%/")
+       req.url("https://www.instagram.com/stories/%_los_kinder_%/%3024714960040203693?utm_source=ig_story_item_share&igshid=YmMyMTA2M2Y=%/")
        req.new accounts 
-             def __gen__:
+             def __gen__:10000
                   acounts.new Instagrams (forViews) 
-       else if choose=="3":
+       else if choose=="10000":
           print("welcome to the followers botter for Instagram") 
               print("")
                   print("please donate $5 to this paypal to access the follower gen")
